@@ -22,7 +22,7 @@ body {
 }
 
 .banner {
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/nen.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 
@@ -858,7 +858,7 @@ ul.simplefilter {
 /*-- testimonial --*/
 
 .testimonial {
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/tes.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 
